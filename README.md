@@ -1,4 +1,4 @@
-# Friend App
+# Friends App
 
 This app uses Random User API to fetch some users data.
 
